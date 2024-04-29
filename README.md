@@ -63,12 +63,19 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138955488/8db9b260-4b19-410a-8252-58428f850d7e)
+![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138955488/fafe6420-9556-494e-baed-ca50341eaadd)
 
-![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138955488/1919e90f-b84c-4922-aa38-322d9e5b8c08)
+![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138955488/e0930ad9-77bf-4f4b-a3f4-86f317dc5a63)
 
-![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138955488/4d58de00-e475-40da-b39e-eec535114904)
+![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138955488/6123ea2a-4421-4543-a85d-44add5c7b050)
 
+![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138955488/2ee9ff8b-fdf9-4ad9-9ee8-c2541d310ece)
+
+![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138955488/09e0b2f7-46f1-42b3-9a5e-1190df2f7a52)
+
+![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138955488/8d9c52f9-2270-4cec-b3e8-ad855795f314)
+
+![image](https://github.com/joeljohnjobinse/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/138955488/555c77d3-29ad-4a32-ae78-bec8712f973d)
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
